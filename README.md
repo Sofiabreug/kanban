@@ -2,6 +2,8 @@
 
 Este é um projeto de **Kanban** para gerenciamento de tarefas, desenvolvido com **HTML**, **CSS** e **JavaScript**. O sistema permite que você organize suas tarefas em diferentes colunas (como "A Fazer", "Em Progresso" e "Concluído"), facilitando a visualização e o acompanhamento do progresso.
 
+![](./src/images/project_img.png)
+
 ## 🚀 Tecnologias Utilizadas
 - **HTML**: Estruturação da página
 - **CSS**: Estilização e responsividade
